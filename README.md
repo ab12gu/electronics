@@ -1,4 +1,5 @@
-<img width="687" alt="image" src="https://github.com/user-attachments/assets/87b6a86a-caa4-459f-ba96-33fd94c8f5a0"># led-projects
+Code repo: WLED
+- https://github.com/Aircoookie/WLED
 
 Various LED projects
 
@@ -44,5 +45,10 @@ LED specs:
 
 Citations:
 - https://www.derunledlights.com/the-difference-between-addressable-rgb-led-strip-ws2811-ws2812b-ws2813-ws2815-sk6812-sk9822/
+- https://www.youtube.com/watch?v=LdpvCepML-E
+- https://www.youtube.com/watch?v=Uke98FWkrHg
+- https://www.youtube.com/watch?v=DKOWeuV1FWE
+- https://www.youtube.com/watch?v=DUpFBf321vY
+- 
 
 <img width="687" alt="image" src="https://github.com/user-attachments/assets/5c230b92-e246-4657-a8d2-71884f73c3b4">
