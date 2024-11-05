@@ -1,21 +1,19 @@
 # hula-hoop
 Custom hula hoops + hula hoop LEDs
 
+Materials:
+- 10ft polypropalene tubing, gaffer tape, rivet, 
+
+
+Cutting Options:
+- box cutter, a hack saw, miter saw, chop saw, tube cutters
 
 
 Personal Citations: 
 - https://www.instructables.com/Make-a-Hula-Hoop/
+- https://www.hoopologie.com/
 
 
-
-Outer Dimension:
-Inner Dimension:
-Diameter:
-Material:
-
-
-Katt's preference: 5/8” like 32”-34”
-HDPE or poly pro tubing. 5/8th” or 3/4” are most common with a 32”-36” outer diameter
 
 
 Purchasing Citations from Katt:
