@@ -5,6 +5,8 @@ Various LED projects
 
 RGBIC dream color LED strips lights
 
+
+
 LED Specs
 - all 150 LEDs per 5 meters
 - the ip65 silicon coded variety
