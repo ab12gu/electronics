@@ -5,7 +5,7 @@ Label Interpretation:
   - First two digits (28) are the height and 2nd two (11) are width of LED in mm
 - "SK6812" might correlate to another company, unsure
   
-<img src="./images/led-size.png" alt="led size" width="800"/> 
+<img src="./images/led-size.png" alt="led size" width="333"/> 
 
 Chip-on-Board (COB) and Surface Mount Device (SMD) LEDs are both LED technologies
 

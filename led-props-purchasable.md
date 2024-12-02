@@ -1,3 +1,8 @@
+TOREAD:
+- Flowtoys, how they made their props:
+- https://flowtoys.com/ts-podpoi
+
+
 Juggling Clubs
 - vision® club - single
     - $190
