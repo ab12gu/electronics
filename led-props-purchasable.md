@@ -28,3 +28,6 @@ Poi
 - podpoi® with capsule handle v2 - single
   - $134.50
   - 3D-printed new capsule handle shell
+  - Silicon Poi
+  - Micro-USB charging
+  - https://flowtoys.com/podpoi
