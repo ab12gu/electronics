@@ -1,5 +1,8 @@
 # led-projects
 
+### Light Physics
+- [Electric Light](https://en.wikipedia.org/wiki/Electric_light)
+
 Code repo: WLED
 - https://github.com/Aircoookie/WLED
 - https://kno.wled.ge/
