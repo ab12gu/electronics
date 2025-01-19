@@ -1,32 +1,38 @@
-# LED strip specs
-
 Label Interpretation: 
 - "WS2811" for LED strips, the "WS" stands for "World Semi"
   - First two digits (28) are the height and 2nd two (11) are width of LED in mm
 - "SK6812" might correlate to another company, unsure
-  
-<img src="./images/led-size.png" alt="led size" width="333"/> 
 
-Chip-on-Board (COB) and Surface Mount Device (SMD) LEDs are both LED technologies
+![[ws2812b-strip.png]]
 
-COB LEDs produce smoother light because their chips are spread out evenly, while SMD LEDs have chips closer together, which can create uneven light distribution
-SMD LEDs are more efficient than COB LEDs because they produce more lumens per watt
-SMD LEDs produce a broader light beam, so they don't need as large a heat sink as COB LEDs
-SMD LEDs offer a wider range of color temperatures than COB LEDs, which are usually just one color temperature
-SMD LEDs are more expensive to produce than COB LEDs
-COB LEDs can produce up to three times more light than traditional LED lights, including SMD LEDs
-COB LEDs are basically multiple LED chips (typically nine or more) bonded directly to a substrate by the manufacturer to form a single module
-COB LED strip lights produce up to 40% more light per watt than SMD LED strip lights
-COB LED strip lights typically cost more than SMD LED strip lights
-COB LED strip lights are typically about 20-30% more expensive than SMD LED strip lights.
-- cob is available in RGBW
+LED technology types:
+- Chip-on-Board (COB)  
+	- smoother light because their chips are spread out evenly
+	- usually just one color
+	- up to three times more light 
+		- produce up to 40% more light per watt than SMD LED strip lights
+	- multiple LED chips (typically nine or more) bonded directly to a substrate by the manufacturer to form a single module
+	- cost more than SMD LED strip lights
+		- 20-30% more expensive
+	- typically have a higher voltage and amperage
+	- typically controlled using a constant voltage (CV) controller
+- Surface Mount Device (SMD)
+	- chips closer together, which can create uneven light distribution
+	- more efficient than COB (more lumens per watt)
+	- broader light beam; therefore, smaller heat sink
+	- more expensive to produce
+	- 
 
-DMX is a digital lighting control protocol that is widely used in the professional lighting industry
-- To control COB LED strip lights using DMX, you will need a DMX decoder. A DMX decoder converts the DMX signal into a format that can be understood by the LED strip lights. The decoder will also allow you to control the brightness, color, and other features of the lights.
 
-COB LED strip lights typically have a higher voltage and amperage than SMD LED strip lights
+DMX is a digital lighting control protocol 
+- widely used in the professional lighting industry
+- to control COB LED strip lights using DMX, you will need a DMX decoder. 
+	- A DMX decoder converts the DMX signal into readable format for leds
+	- allows you to control the brightness, color, and other features of the lights.
 
-COB LED strip lights are typically controlled using a constant voltage (CV) controller. A CV controller maintains a constant voltage to the LED strip lights, regardless of the load. This is important because COB LED strip lights can draw a lot of current, and a CV controller will ensure that the lights do not overheat or damage.
+
+
+A CV controller maintains a constant voltage to the LED strip lights, regardless of the load. This is important because COB LED strip lights can draw a lot of current, and a CV controller will ensure that the lights do not overheat or damage.
 
 SMD LED strip lights, on the other hand, are typically controlled using a constant current (CC) controller. A CC controller maintains a constant current to the LED strip lights, regardless of the voltage. This is important because SMD LED strip lights are more sensitive to voltage fluctuations, and a CC controller will help to protect the lights from damage.
 

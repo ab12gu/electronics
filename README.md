@@ -1,5 +1,7 @@
 # led-projects
 
+### Circuits Review
+[hyperlink](https://www.allaboutcircuits.com/textbook/direct-current/chpt-5/simple-series-circuits/)
 ### Light Physics
 - [Electric Light](https://en.wikipedia.org/wiki/Electric_light)
 
