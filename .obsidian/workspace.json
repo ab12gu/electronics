@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7abae43e90ea860c",
+        "id": "50656de349bb8f43",
         "type": "tabs",
         "children": [
           {
-            "id": "b256359267b8a620",
+            "id": "2a4e2d67b339b6f5",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -173,16 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b256359267b8a620",
+  "active": "2a4e2d67b339b6f5",
   "lastOpenFiles": [
+    "website-summary.md",
+    "led-strip-specs.md",
     "input-voltage.md",
     "README.md",
-    "website-summary.md",
     "purchaseable/purchase-options.md",
     "purchaseable/flowtoys.md",
     "purchaseable/led-bulbs.md",
     "purchaseable/purchasable-led-strips.md",
-    "led-strip-specs.md",
     "programming.md"
   ]
 }

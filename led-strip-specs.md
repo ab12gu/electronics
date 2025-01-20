@@ -3,6 +3,22 @@ Label Interpretation:
   - First two digits (28) are the height and 2nd two (11) are width of LED in mm
 - "SK6812" might correlate to another company, unsure
 
+<div style="width: 96px;">
+     <div src=".\images\ws2812b-strip.png" class="internal-embed"></div> 
+</div>
+<div style="width: 96px;">
+     <div src="image.png" class="internal-embed"></div> 
+</div>
+
+<div style="width: 96px;">
+     <div src="image.png" class="internal-embed"></div> 
+</div>
+<div style="width: 96px;">
+     <div src="image.png" class="internal-embed"></div> 
+</div>
+<div style="width: 96px;">
+     <div src="image.png" class="internal-embed"></div> 
+</div>
 ![[ws2812b-strip.png]]
 
 LED technology types:
