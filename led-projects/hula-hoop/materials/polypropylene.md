@@ -2,12 +2,6 @@
 
 [wiki](https://en.wikipedia.org/wiki/Polypropylene)
 
-### Dimensions:
-- OD: 5/8" as a decimal is 0.625in (1.5875cm)
-- ID: variable ~1/2in
-- Length: 8ft 4in -> 8ft 6in (for 32" -> 34" diameter tube)
-
-
 ### Material Properties
 - also called Poly(1-methylethylene)
 - thermoplastic polymer (pliable at elevated temperatures)

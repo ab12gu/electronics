@@ -1,5 +1,15 @@
- #### Size of Hoops
- 
+ # Size of Hoops
+
+Flowtoys [blog](https://flowtoys.com/blog/choosing-the-perfect-hoop-size-for-you/)
+
+
+### Dimensions:
+- OD: 5/8" as a decimal is 0.625in (1.5875cm)
+- ID: variable ~1/2in
+- Length: 8ft 4in -> 8ft 11in (for 32" -> 34" diameter tube)
+- Small advanced -> 27in diameter (7 ft 1in)
+
+General advice
  - Bigger hoops are easier to use on the body
  - Advanced hoopers will move into smaller sizes
 
