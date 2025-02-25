@@ -11,32 +11,17 @@
             "id": "2a4e2d67b339b6f5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "led-strip-specs.md",
-                "bFile": "led-strip-specs.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: led-strip-specs"
-            }
-          },
-          {
-            "id": "23381a8f86f63df0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "hula-hoop/building-hula-hoop.md",
+                "file": "led-projects/leds-strips/Wiring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "building-hula-hoop"
+              "title": "Wiring"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -154,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "led-strip-specs.md"
+                "file": "led-projects/leds-strips/Wiring.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of led-strip-specs"
+              "title": "Outline of Wiring"
             }
           },
           {
@@ -188,8 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23381a8f86f63df0",
+  "active": "cb23a23672ef8f18",
   "lastOpenFiles": [
+    "led-projects/leds-strips/led-strip-specs.md",
+    "led-projects/leds-strips/Wiring.md",
+    "led-projects/leds-strips",
+    "led-projects/UV.md",
     "Untitled.md",
     "Untitled 1.md",
     "hula-hoop/building-hula-hoop.md",
