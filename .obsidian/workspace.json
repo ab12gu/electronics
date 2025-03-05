@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "led-projects/leds-strips/Wiring.md",
+                "file": "led-projects/hula-hoop/controller/microcontroller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wiring"
+              "title": "microcontroller"
             }
           }
         ]
@@ -177,10 +177,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb23a23672ef8f18",
+  "active": "2a4e2d67b339b6f5",
   "lastOpenFiles": [
-    "led-projects/leds-strips/led-strip-specs.md",
+    "Pasted image 20250304124106.png",
+    "led-projects/hula-hoop/building/building-hula-hoop.md",
+    "led-projects/hula-hoop/controller/microcontroller.md",
+    "led-projects/hula-hoop/controller",
+    "led-projects/hula-hoop/purchasing/polypropylene.md",
+    "led-projects/hula-hoop/size.md",
+    "led-projects/leds-strips/Programming.md",
     "led-projects/leds-strips/Wiring.md",
+    "led-projects/leds-strips/led-strip-specs.md",
     "led-projects/leds-strips",
     "led-projects/UV.md",
     "Untitled.md",
