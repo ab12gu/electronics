@@ -8,5 +8,5 @@ Arduino Pro Mini
 - rxi - recieve input, used for data in
 - tx0 - used to transfer data to strip
 
-![[Pasted image 20250304124106.png]]
+![[arduino-mini.png]]
 
