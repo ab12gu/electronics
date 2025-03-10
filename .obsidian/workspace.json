@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ebike/rad-bike/controllers.md",
+                "file": "led-projects/hula-hoop/battery/battery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "controllers"
+              "title": "battery"
             }
           }
         ]
@@ -179,8 +179,14 @@
   },
   "active": "2a4e2d67b339b6f5",
   "lastOpenFiles": [
+    "ebike/rad-bike/BLDC - Tutorials.md",
+    "led-projects/hula-hoop/battery/battery.md",
+    "led-projects/hula-hoop/battery",
+    "led-projects/hula-hoop/Untitled.md",
+    "ebike/rad-bike/alt controllers.md",
+    "ebike/rad-bike/controller.md",
+    "ebike/rad-bike/bike info.md",
     "led-projects/hula-hoop/images/arduino-mini.png",
-    "ebike/rad-bike/controllers.md",
     "ebike/rad-bike",
     "ebike",
     "led-projects/hula-hoop/controller/microcontroller.md",
