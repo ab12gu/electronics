@@ -1,5 +1,9 @@
-https://area13ebikes.com/products/radkit
+If you have a hardtail, then you can run 2 chains to the rear wheel and you can gear the motor and the pedals separately. That way you can gear them individually to match each other.
 
+https://www.youtube.com/watch?v=Hy_D-3yngOM
+
+https://area13ebikes.com/products/radkit
+$229.00
 35a controller and New Color LCD8H
 Plug and play for 2016-2018 Rover bikes
 
@@ -46,3 +50,11 @@ Controller for brushless motor
 Model: KT485VPRL-SPS3P
 Maximum current: 35±24
 Rated voltage: Rated current:
+
+
+https://electrobikeworld.com/products/25a-controller-for-rad-ebikes
+- $88.99
+
+https://electrobikeworld.com/products/rad-power-6-upgrade-kit
+- $248.99
+- 

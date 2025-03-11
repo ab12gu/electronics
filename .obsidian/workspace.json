@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "led-projects/hula-hoop/battery/battery.md",
+                "file": "ebike/rad-bike/battery.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,17 +179,21 @@
   },
   "active": "2a4e2d67b339b6f5",
   "lastOpenFiles": [
-    "ebike/rad-bike/BLDC - Tutorials.md",
+    "Pasted image 20250310170847.png",
+    "Pasted image 20250310170837.png",
+    "ebike/rad-bike/controller.md",
+    "ebike/rad-bike/battery.md",
+    "ebike/rad-bike/motor.md",
+    "ebike/rad-bike/alt controllers.md",
+    "led-projects/hula-hoop/controller/microcontroller.md",
     "led-projects/hula-hoop/battery/battery.md",
+    "ebike/rad-bike/BLDC - Tutorials.md",
     "led-projects/hula-hoop/battery",
     "led-projects/hula-hoop/Untitled.md",
-    "ebike/rad-bike/alt controllers.md",
-    "ebike/rad-bike/controller.md",
     "ebike/rad-bike/bike info.md",
     "led-projects/hula-hoop/images/arduino-mini.png",
     "ebike/rad-bike",
     "ebike",
-    "led-projects/hula-hoop/controller/microcontroller.md",
     "led-projects/hula-hoop/building/building-hula-hoop.md",
     "led-projects/hula-hoop/controller",
     "led-projects/hula-hoop/purchasing/polypropylene.md",
@@ -208,9 +212,6 @@
     "input-voltage.md",
     "README.md",
     "purchaseable/purchase-options.md",
-    "purchaseable/flowtoys.md",
-    "purchaseable/led-bulbs.md",
-    "purchaseable/purchasable-led-strips.md",
-    "programming.md"
+    "purchaseable/flowtoys.md"
   ]
 }
