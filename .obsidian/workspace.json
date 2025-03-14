@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ebike/rad-bike/battery.md",
+                "file": "led-projects/hula-hoop/controller/microcontroller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "battery"
+              "title": "microcontroller"
             }
           }
         ]
@@ -179,18 +179,24 @@
   },
   "active": "2a4e2d67b339b6f5",
   "lastOpenFiles": [
+    "led-projects/hula-hoop/controller/chips.md",
+    "ebike/rad-bike/motor.md",
+    "led-projects/hula-hoop/controller/chips on hand.md",
+    "led-projects/hula-hoop/controller/microcontroller.md",
+    "Pasted image 20250312232036.png",
+    "Pasted image 20250312190708.png",
+    "Pasted image 20250312184959.png",
+    "ebike/rad-bike/controller.md",
+    "ebike/rad-bike/alt controllers.md",
+    "ebike/rad-bike/bike info.md",
+    "ebike/rad-bike/controller-wiring.md",
+    "ebike/rad-bike/battery.md",
+    "ebike/rad-bike/BLDC - Tutorials.md",
     "Pasted image 20250310170847.png",
     "Pasted image 20250310170837.png",
-    "ebike/rad-bike/controller.md",
-    "ebike/rad-bike/battery.md",
-    "ebike/rad-bike/motor.md",
-    "ebike/rad-bike/alt controllers.md",
-    "led-projects/hula-hoop/controller/microcontroller.md",
     "led-projects/hula-hoop/battery/battery.md",
-    "ebike/rad-bike/BLDC - Tutorials.md",
     "led-projects/hula-hoop/battery",
     "led-projects/hula-hoop/Untitled.md",
-    "ebike/rad-bike/bike info.md",
     "led-projects/hula-hoop/images/arduino-mini.png",
     "ebike/rad-bike",
     "ebike",
@@ -209,9 +215,6 @@
     "hula-hoop",
     "website-summary.md",
     "led-strip-specs.md",
-    "input-voltage.md",
-    "README.md",
-    "purchaseable/purchase-options.md",
-    "purchaseable/flowtoys.md"
+    "input-voltage.md"
   ]
 }
