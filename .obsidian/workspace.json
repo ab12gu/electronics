@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "microcontroller"
             }
+          },
+          {
+            "id": "1d1eb795cb419c12",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "ebike/rad-bike/controller.md",
+                "bFile": "ebike/rad-bike/controller.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: controller"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a4e2d67b339b6f5",
+  "active": "1d1eb795cb419c12",
   "lastOpenFiles": [
+    "ebike/rad-bike/controller.md",
     "led-projects/hula-hoop/controller/chips.md",
     "ebike/rad-bike/motor.md",
     "led-projects/hula-hoop/controller/chips on hand.md",
@@ -186,7 +202,6 @@
     "Pasted image 20250312232036.png",
     "Pasted image 20250312190708.png",
     "Pasted image 20250312184959.png",
-    "ebike/rad-bike/controller.md",
     "ebike/rad-bike/alt controllers.md",
     "ebike/rad-bike/bike info.md",
     "ebike/rad-bike/controller-wiring.md",
