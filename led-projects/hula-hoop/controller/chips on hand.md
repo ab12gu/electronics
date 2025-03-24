@@ -9,7 +9,7 @@ STM8S003F3P6
 
 Arduino Uno
 
-![[Pasted image 20250312232036.png]]
+![[micocontroller-compare.png]]
 
 
 # Seeed Studio XIAO SAMD21(Seeeduino XIAO) - Arduino Microcontroller - SAMD21 Cortex M0+ with Free Course

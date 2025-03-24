@@ -15,6 +15,6 @@ electrical connector on the battery is a 5.5mm/2.1mm jack
 You can charge at a faster rate, but the batteries have a 5A fuse in the charge circuit, so that's a limit, and the higher the charge rate the less battery longevity
 
 
-![[Pasted image 20250310170837.png]]
+![[ebike-battery.png]]
 
-![[Pasted image 20250310170847.png]]
+![[ebike-battery-serial.png]]

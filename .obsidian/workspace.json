@@ -11,32 +11,15 @@
             "id": "2a4e2d67b339b6f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "led-projects/hula-hoop/controller/microcontroller.md",
-                "mode": "source",
-                "source": false
+                "file": "led-projects/microcontr-dimensional-drawing.png"
               },
-              "icon": "lucide-file",
-              "title": "microcontroller"
-            }
-          },
-          {
-            "id": "1d1eb795cb419c12",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "ebike/rad-bike/controller.md",
-                "bFile": "ebike/rad-bike/controller.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: controller"
+              "icon": "lucide-image",
+              "title": "microcontr-dimensional-drawing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,23 +175,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d1eb795cb419c12",
+  "active": "fb6ad478ed1e4190",
   "lastOpenFiles": [
+    "led-projects/micocontroller-compare.png",
+    "led-projects/led-hoop-diagram.png",
+    "led-projects/microcontr-dimensional-drawing.png",
+    "ebike/ebike-battery-serial.png",
+    "ebike/ebike-battery.png",
+    "led-projects/hula-hoop/controller/microcontroller.md",
     "ebike/rad-bike/controller.md",
     "led-projects/hula-hoop/controller/chips.md",
     "ebike/rad-bike/motor.md",
     "led-projects/hula-hoop/controller/chips on hand.md",
-    "led-projects/hula-hoop/controller/microcontroller.md",
-    "Pasted image 20250312232036.png",
-    "Pasted image 20250312190708.png",
-    "Pasted image 20250312184959.png",
     "ebike/rad-bike/alt controllers.md",
     "ebike/rad-bike/bike info.md",
     "ebike/rad-bike/controller-wiring.md",
     "ebike/rad-bike/battery.md",
     "ebike/rad-bike/BLDC - Tutorials.md",
-    "Pasted image 20250310170847.png",
-    "Pasted image 20250310170837.png",
     "led-projects/hula-hoop/battery/battery.md",
     "led-projects/hula-hoop/battery",
     "led-projects/hula-hoop/Untitled.md",

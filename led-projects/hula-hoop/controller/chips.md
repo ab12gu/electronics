@@ -23,7 +23,7 @@ Hyperion Hula Hoop
 
 [NO!] Teensy boards small enough to go in a hoop unmodified that run a similar MK21DX256 or some such
 
-![[Pasted image 20250312184959.png]]
+![[microcontr-dimensional-drawing.png]]
 
 Patterns are all stored as BMP images (24 MB of storage space, and it includes about 1500 patterns), and you can set up overlays and dynamic palettes, and link motion sensors to various parameters like pattern layer rotation or palette line, which makes for some really cool effects.
 
@@ -33,7 +33,7 @@ I've just recently gotten the sensor fusion code working so they can get much be
 
 https://pritabread.medium.com/how-to-make-any-hoop-into-an-led-smart-hoop-for-less-than-30-55e32632d085
 
-![[Pasted image 20250312190708.png]]'
+![[led-hoop-diagram.png]]'
 https://www.trustfire.com/products/trustfire-10440-350mah-battery
 
 https://www.amazon.com/AmazonBasics-Rechargeable-Batteries-12-Pack-Pre-charged/dp/B007B9NXAC
