@@ -1,7 +1,7 @@
 ## Summary
 
-RFID
-- Radio-frequency identification
+RFID (Radio-frequency identification)
+
 - Electromagnetic fields to automatically identify and track tags attached to objects
 - Frequencies
   - Low Frequency (LF): 125-134 kHz
