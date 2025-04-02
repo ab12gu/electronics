@@ -10,7 +10,7 @@ RFID (Radio-frequency identification)
 
 ### Docs
 
-- wiki - https://en.wikipedia.org/wiki/Radio-frequency_identification
+- [RFID wiki page](https://en.wikipedia.org/wiki/Radio-frequency_identification)
 
 ### Vids
 
