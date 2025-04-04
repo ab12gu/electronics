@@ -3,10 +3,14 @@
 RFID (Radio-frequency identification)
 
 - Electromagnetic fields to automatically identify and track tags attached to objects
-- Frequencies
-  - Low Frequency (LF): 125-134 kHz
-  - High Frequency (HF): 13.56 MHz
-  - Ultra High Frequency (UHF): 902-928 MHz (US) or 865-868 MHz (EU)
+
+| Type             | Frequency                            |
+|------------------|--------------------------------------|
+| Low (LF)         | 125-134 hz                           |
+| High (HF)        | 13.56 Mhz                            |
+| Ultra High (UHF) | 902-928 Mhz (US) or 865-868 Mhz (EU) |
+
+Frequency
 
 ### Docs
 
