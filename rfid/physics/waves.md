@@ -37,9 +37,9 @@ Speed of Light is ```3.00 x 10^8 m/s```
 - Radio waves oscillate at frequencies: 
     - few kilohertz to few terahertz (1 THz = 10^12 Hz)
 
-![at text](images/wave-freq.png)
+![at text](./../images/wave-freq.png)
 
-![alt text](images/electromagnetic-spectrum.png)
+![alt text](./../images/electromagnetic-spectrum.png)
 
 | Type of Wave      | Wavelength                 | Frequency       | Examples                         |
 |-------------------|----------------------------|-----------------|----------------------------------|
