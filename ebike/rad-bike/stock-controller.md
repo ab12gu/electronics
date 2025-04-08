@@ -1,6 +1,7 @@
  USB to TTL Downloader with Jumper Wires to get device firmware
 
 Current Controller (broken):
+
 - Accelerated Systems Inc (ASI)
 - SN: 2147-00054
 - Made in Vietnam
@@ -15,6 +16,7 @@ Current Controller (broken):
 - Side barcode:
 	- PC-100029
 	- S2147-00054
+
 https://electronoobs.com/eng_arduino_tut126_gerber1.php
 https://accelerated-systems-inc.myshopify.com/collections/evaluation-kit/products/bac-350-eval-kit-with-bluetooth
 https://www.amazon.com/HiLetgo-CP2102-Converter-Adapter-Downloader/dp/B00LODGRV8?source=ps-sl-shoppingads-lpcontext&psc=1&gQT=0
