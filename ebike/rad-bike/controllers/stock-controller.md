@@ -17,11 +17,16 @@ Current Controller (broken):
 	- PC-100029
 	- S2147-00054
 
-https://electronoobs.com/eng_arduino_tut126_gerber1.php
-https://accelerated-systems-inc.myshopify.com/collections/evaluation-kit/products/bac-350-eval-kit-with-bluetooth
-https://www.amazon.com/HiLetgo-CP2102-Converter-Adapter-Downloader/dp/B00LODGRV8?source=ps-sl-shoppingads-lpcontext&psc=1&gQT=0
+[Pin out for controller](https://www.acceleratedsystems.com/media/dmsoinvs/asi_emobility_controllers_spec_sheet_w_pin_out_table.pdf)
+
+Links:
+
+- https://electronoobs.com/eng_arduino_tut126_gerber1.php
+- https://accelerated-systems-inc.myshopify.com/collections/evaluation-kit/products/bac-350-eval-kit-with-bluetooth
+- https://www.amazon.com/HiLetgo-CP2102-Converter-Adapter-Downloader/dp/B00LODGRV8?source=ps-sl-shoppingads-lpcontext&psc=1&gQT=0
 
 [web-link](https://www.acceleratedsystems.com/products/electric-motor-controllers/bac355-bac555)
+
 - The BAC355 and BAC555 are a mid-power sub-compact Motor Controller (inverter) 
 - designed with the latest in field-oriented vector control (FOC) 
 - ASI’s proprietary adaptive Sensorless Motor Control Algorithms

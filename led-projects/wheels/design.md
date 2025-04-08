@@ -9,6 +9,7 @@ Building my own LED wheels for
 
 1. Magnetic Core
     - [ali - magnetic stator](https://www.aliexpress.us/item/3256808166063611.html?gatewayAdapt=glo2usa)
+    - [ali - mangetic stator w/ specs](https://www.aliexpress.us/item/2251832665009854.html?mp=1&pdp_npi=5%40dis!USD!USD%201.20!USD%201.06!!!!!%402101ec1f17441318386877434eca3f!65194011052!ct!US!2624340281!!1!0&gatewayAdapt=glo2usa#nav-specification)
     - [luminous](https://usa.luminouswheels.com/search?filter.v.price.gte&filter.v.price.lte&sort_by=relevance&type=product&options[prefix]=last&q=Magnet%20Spacer%20)
     - Alternative
         - Neodymium Magnets [need to order**]
