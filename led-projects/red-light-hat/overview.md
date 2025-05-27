@@ -44,4 +44,7 @@ Red Light therapy vlogger
 - https://www.youtube.com/@LightTherapyInsiders/videos
 
 
+Alternative Uses
 
+- Concusions - bioflex
+- 
