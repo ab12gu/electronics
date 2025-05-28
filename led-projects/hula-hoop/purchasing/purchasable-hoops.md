@@ -1,5 +1,8 @@
 #### LED Hoops 
 
+[facebook - Hoop Review](https://www.facebook.com/groups/697737250316794/)
+
+
 - [Hula Lab](https://www.hulalab.com/)
   - Acrobat LED Hoop
     - \$105.00 + $10 shipping - polypro

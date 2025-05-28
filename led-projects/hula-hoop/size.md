@@ -1,4 +1,4 @@
- # Size of Hoops
+# Size of Hoops
 
 Flowtoys [blog](https://flowtoys.com/blog/choosing-the-perfect-hoop-size-for-you/)
 
