@@ -1,6 +1,6 @@
 # Overview
 
-<video autoplay width="320" height="240" controls loop>
+<video autoplay width="320" height="240" controls playsinline loop>
    <source src="vids/breaking-ulock.mov"> 
    Your browser does not support the video tag.
 </video>
@@ -11,10 +11,14 @@ The bike was poorly locked and since it was locked to a table, we were able to j
 
 Using [bikeindex](https://bikeindex.org/), I found the original owners by asking someone about their missing bike posting from 3 months prior. They were able to tell me the keycode that matched the bicycle and I was succesfully able to return the bicycle to their original owners. 
 
+## Media
+
 [RadCity™ 5 Plus Electric Commuter Bike](https://www.radpowerbikes.com/products/radcity-plus-electric-commuter-bike)
 
 
 ![alt text](images/found-rad-bike.jpeg)
+
+## Issues
 
 However, the owner had already replaced the bicycle with a newer version of the bicycle. The stolen one also had pieces replaced and broken. 
 
