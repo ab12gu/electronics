@@ -1,5 +1,41 @@
 # Overview
 
+# Resources
+
+- https://art-net.org.uk/
+
+## Discussion Threads
+
+- https://forums.adafruit.com/viewtopic.php?t=49964
+- https://forum.allaboutcircuits.com/threads/programmable-led-hoop.63567/
+- https://forum.arduino.cc/t/seeking-assistance-for-openhoop-creating-a-smart-pixel-art-hula-hoop/1237640 
+
+## DIY Tutorials
+
+- https://rarlindseysmash.com/2016/02/13/diy-led-hula-hoop.html
+- https://www.instructables.com/Individually-Addressable-LED-Hula-Hoop/
+- https://makezine.com/projects/led-hula-hoop/
+- https://github.com/kgizzi/tulahoop
+- https://makezine.com/article/craft/flashback-led-hula-hoop/
+- https://www.instructables.com/LED-Hula-Hoop/
+- https://256.makerslocal.org/wiki/Dynamic_Led_Hula_Hoop
+- 
+
+## Discussion Forms
+
+- https://forums.adafruit.com/viewtopic.php?t=194790
+- https://forum.makerforums.info/t/i-am-working-on-a-hula-hoop-that-displays-patterns/59046
+
+
+## Microcontrollers
+
+- https://www.microchip.com/en-us/product/attiny4 **
+- https://www.hackerstore.nl/Artikel/265
+- atm328 controller pins
+- https://docs.arduino.cc/retired/boards/arduino-duemilanove/
+- https://www.nxp.com/part/MK20DX256VLH7
+- https://forum.pjrc.com/index.php?threads/tiniest-teensy.33347/
+
 ## Custom hula hoops
 
 Materials

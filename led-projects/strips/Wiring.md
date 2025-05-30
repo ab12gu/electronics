@@ -1,3 +1,7 @@
+# Wiring
+
+- https://learn.illuminations.mit.edu/
+
 [Purchased Aliexpress Strip](https://www.aliexpress.us/item/3256806037815487.html?gatewayAdapt=glo2usa#nav-specification)
 
 - LED Chip Model: SMD5050

@@ -1,16 +1,19 @@
 # Alternative Controllers
 
-- [ali - 48V -> 72V, 1000W -> 1500W BLDC Controller](https://www.aliexpress.us/item/3256806904727629.html?gatewayAdapt=glo2usa)
-    - Just ordered, tbd
+You can get a lot of controllers for a 10th of the price of branded controllers. The issue is that you would need to wire it yourself with crimps/soldering/etc that may take awhile to get right. 
+
+Some ebike controllers are waterproof and have a keypad to use with it that isn't default with the off-the-shelf cheap generic controllers.
 
 ## Controller Wiring
 
-https://www.youtube.com/watch?v=OVXpX-CFdqE
-
-Great video:
-https://www.youtube.com/watch?v=so6hxCqHs_I
+- https://www.youtube.com/watch?v=OVXpX-CFdqE
+- https://www.youtube.com/watch?v=so6hxCqHs_I [great video]
 
 ## Off the shelf options
+
+- [ali - 48V -> 72V, 1000W -> 1500W BLDC Controller](https://www.aliexpress.us/item/3256806904727629.html?gatewayAdapt=glo2usa)
+    - Just ordered, tbd
+    - $16
 
 - https://www.youtube.com/watch?v=Hy_D-3yngOM
 

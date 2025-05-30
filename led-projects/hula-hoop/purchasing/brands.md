@@ -5,3 +5,5 @@
 - moondance hopps
 - shelled hoops
 - future hoop
+- https://psihoops.com/
+- https://shop.astralhoops.com/

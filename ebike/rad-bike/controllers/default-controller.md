@@ -1,9 +1,16 @@
- USB to TTL Downloader with Jumper Wires to get device firmware
+# Default Controller
 
-Current Controller (broken):
+Prior controller supplied with Rad bike (burnt out transistors inside) - [BAC355](https://www.acceleratedsystems.com/products/electric-motor-controllers/bac355)
 
-- Accelerated Systems Inc (ASI)
 - SN: 2147-00054
+- Manufacturer: Accelerated Systems Inc | Waterloo, Ontario
+
+[B&B ULINX USOPTL4 - Serial adapter ](https://www.shi.com/product/32390464/BandB-ULINX-USOPTL4-Serial-adapter?__cf_chl_tk=sO77HdQP3R3LpXkl9V7f2CJ5zOJN91E174tectpLSng-1742524427-1.0.1.1-jBmTav4kAnwRIqURZVBJ9pWRRnXol0EFAUjUt6OQsI0)
+
+## Specs
+
+BAC355, Accelerated Systems Inc (ASI)
+
 - Made in Vietnam
 - Model: BAC355-TTL
 - 24-48V, 55A
@@ -49,3 +56,24 @@ Links:
 | **Outputs**                                                  | Hall 5V, 5V, 12V, Low-Side Switch, Optional Switched 6V Light Output                                                 |
 | **Generic Connectors**<br><br>**(In Production)**            | Signal - S24B-PADDSS-1  <br>1x KST MPD2-156 or equivalent  <br>4x KST FRD2-156 or equivalent                         |
 | **Generic Waterproof Connectors**<br><br>**(SOP - Q2 2024)** | Battery - Higo L513A   <br>Motor - Higo Z910A / Higo Z1115A  <br>Signal 1 - Higo Z1513AM  <br>Signal 2 - Higo Z609FM |
+
+
+## Pin out
+
+https://www.acceleratedsystems.com/media/dmsoinvs/asi_emobility_controllers_spec_sheet_w_pin_out_table.pdf
+
+## Serial Communication
+
+[RS232 vs TTL](https://www.seeedstudio.com/blog/2019/12/11/rs232-vs-ttl-beginner-guide-to-serial-communication/)
+
+[RS232 Serial Communication Protocol](https://circuitdigest.com/article/rs232-serial-communication-protocol-basics-specifications)
+
+CAN protocol
+
+- https://www.csselectronics.com/pages/canopen-tutorial-simple-intro
+
+rs232 ttl rx tx
+
+Cable - RS-422
+
+USB to TTL Downloader with Jumper Wires to get device firmware

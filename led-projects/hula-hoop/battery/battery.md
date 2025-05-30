@@ -1,3 +1,10 @@
+# Battery
+
+Running led strips at a lower voltage:
+
+- https://www.waveformlighting.com/home-residential/can-you-operate-a-12v-led-strip-at-less-than-12v
+ 
+
 https://www.hyperionhoop.com/shop/product_info.php?products_id=206
 
 Batteries (10440 size for 5/8 hoops) - 4-Pack with Case
