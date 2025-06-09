@@ -8,7 +8,7 @@ Contract from shop:
 
 Black Max San Juan Step Through (B1k) 
 
-![alt text](3160465E-30B5-4E7E-9388-50188BCD14E7_1_105_c.jpeg)
+![alt text](black-max.jpeg)
 
 ## History
 
